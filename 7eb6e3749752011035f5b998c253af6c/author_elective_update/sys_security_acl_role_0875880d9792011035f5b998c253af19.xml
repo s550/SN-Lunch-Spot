@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-15 19:02:02</sys_created_on>
+        <sys_id>0875880d9792011035f5b998c253af19</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_682052_lunch_spo_lunch.x_682052_lunch_spo.meals_user</sys_name>
+        <sys_package display_value="Lunch Spot" source="x_682052_lunch_spo">7eb6e3749752011035f5b998c253af6c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Lunch Spot">7eb6e3749752011035f5b998c253af6c</sys_scope>
+        <sys_security_acl display_value="x_682052_lunch_spo_lunch">c475880d9792011035f5b998c253af16</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_0875880d9792011035f5b998c253af19</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-15 19:02:02</sys_updated_on>
+        <sys_user_role display_value="x_682052_lunch_spo.meals_user" name="x_682052_lunch_spo.meals_user">2db727749752011035f5b998c253af20</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Lunch Spot">7eb6e3749752011035f5b998c253af6c</application>
+        <file_path/>
+        <instance_id>5bbb66e7dba033004d2bac44d49619a7</instance_id>
+        <instance_name>dev79479</instance_name>
+        <name>sys_security_acl_role_0875880d9792011035f5b998c253af19</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-03-15 19:02:02</sys_created_on><sys_id>0875880d9792011035f5b998c253af19</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_682052_lunch_spo_lunch.x_682052_lunch_spo.meals_user</sys_name><sys_package display_value="Lunch Spot" source="x_682052_lunch_spo">7eb6e3749752011035f5b998c253af6c</sys_package><sys_policy/><sys_scope display_value="Lunch Spot">7eb6e3749752011035f5b998c253af6c</sys_scope><sys_security_acl display_value="x_682052_lunch_spo_lunch">c475880d9792011035f5b998c253af16</sys_security_acl><sys_update_name>sys_security_acl_role_0875880d9792011035f5b998c253af19</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-03-15 19:02:02</sys_updated_on><sys_user_role display_value="x_682052_lunch_spo.meals_user" name="x_682052_lunch_spo.meals_user">2db727749752011035f5b998c253af20</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-1928654491</payload_hash>
+        <record_name>x_682052_lunch_spo_lunch.x_682052_lunch_spo.meals_user</record_name>
+        <reverted_from/>
+        <source>b4b148c59792011035f5b998c253af98</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-15 19:02:02</sys_created_on>
+        <sys_id>8075880d9792011035f5b998c253af1c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17f8ef56aa10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-15 19:02:02</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>c875880da39201103be324528828a01b</update_guid>
+        <update_guid_history>c875880da39201103be324528828a01b:-1928654491</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_682052_lunch_spo_lunch.x_682052_lunch_spo.meals_user">bedb084197d2011035f5b998c253af63</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-15 19:30:05</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>8fc89f3c6a7348448b6952aee5ddbb04</sys_id>
+        <sys_metadata>0875880d9792011035f5b998c253af19</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_682052_lunch_spo_lunch.x_682052_lunch_spo.meals_user</sys_name>
+        <sys_package display_value="Lunch Spot" source="x_682052_lunch_spo">7eb6e3749752011035f5b998c253af6c</sys_package>
+        <sys_parent display_value="">c475880d9792011035f5b998c253af16</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Lunch Spot">7eb6e3749752011035f5b998c253af6c</sys_scope>
+        <sys_scope_delete display_value="">6a65fb1467f0475d83cfa91629817621</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_0875880d9792011035f5b998c253af19</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_0875880d9792011035f5b998c253af19">8075880d9792011035f5b998c253af1c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-15 19:30:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Meals" max_length="40" name="x_682052_lunch_spo_meals" type="collection">
+        <element label="Paid by" max_length="32" name="paid_by" reference="sys_user" type="reference"/>
+        <index name="index">
+            <element name="paid_by"/>
+        </index>
+    </element>
+</database>

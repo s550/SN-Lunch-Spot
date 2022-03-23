@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="INSERT_OR_UPDATE">
+        <operation>execute</operation>
+        <source_scope display_value="Lunch Spot">7eb6e3749752011035f5b998c253af6c</source_scope>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>carmella.wishman</sys_created_by>
+        <sys_created_on>2022-03-23 15:35:45</sys_created_on>
+        <sys_id>d8f268679752011035f5b998c253af5d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Glide API: user roles and groups</sys_name>
+        <sys_package display_value="Lunch Spot" source="x_682052_lunch_spo">7eb6e3749752011035f5b998c253af6c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Lunch Spot">7eb6e3749752011035f5b998c253af6c</sys_scope>
+        <sys_update_name>sys_scope_privilege_d8f268679752011035f5b998c253af5d</sys_update_name>
+        <sys_updated_by>carmella.wishman</sys_updated_by>
+        <sys_updated_on>2022-03-23 15:35:45</sys_updated_on>
+        <target_name>Glide API: user roles and groups</target_name>
+        <target_scope display_value="Global">global</target_scope>
+        <target_type>scriptable</target_type>
+    </sys_scope_privilege>
+</record_update>

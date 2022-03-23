@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>bill_total</field>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>Reviewer Permissions for Existing Lunche</name>
+        <order/>
+        <script><![CDATA[function onLoad() {
+   //Type appropriate comment here, and begin script below
+   if (g_user.hasRoleExactly("x_682052_lunch_spo.ls_reviewer")){
+   g_form.setReadOnly('restaurant_name',true);
+   g_form.setReadOnly('food_genre',true);
+   }
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-23 14:04:32</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ceecc4679712011035f5b998c253afbd</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Reviewer Permissions for Existing Lunche</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Lunch Spot" source="x_682052_lunch_spo">7eb6e3749752011035f5b998c253af6c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Lunch Spot">7eb6e3749752011035f5b998c253af6c</sys_scope>
+        <sys_update_name>sys_script_client_ceecc4679712011035f5b998c253afbd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-23 15:01:16</sys_updated_on>
+        <table>x_682052_lunch_spo_meals</table>
+        <type>onLoad</type>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

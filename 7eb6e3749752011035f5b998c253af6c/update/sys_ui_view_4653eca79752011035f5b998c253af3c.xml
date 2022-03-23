@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>Review_view</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>carmella.wishman</sys_created_by>
+        <sys_created_on>2022-03-23 15:37:29</sys_created_on>
+        <sys_id>4653eca79752011035f5b998c253af3c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Review_view</sys_name>
+        <sys_package display_value="Lunch Spot" source="x_682052_lunch_spo">7eb6e3749752011035f5b998c253af6c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Lunch Spot">7eb6e3749752011035f5b998c253af6c</sys_scope>
+        <sys_update_name>sys_ui_view_4653eca79752011035f5b998c253af3c</sys_update_name>
+        <sys_updated_by>carmella.wishman</sys_updated_by>
+        <sys_updated_on>2022-03-23 15:37:29</sys_updated_on>
+        <title>Review_view</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

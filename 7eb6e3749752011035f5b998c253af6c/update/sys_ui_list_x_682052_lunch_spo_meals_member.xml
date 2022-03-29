@@ -2,63 +2,63 @@
     <sys_ui_list parent="" relationship="" sys_domain="global" table="x_682052_lunch_spo_meals" version="2" view="member">
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>paid_by</element>
-            <list_id display_value="x_682052_lunch_spo_meals" element="NULL" name="x_682052_lunch_spo_meals" parent="NULL" relationship="NULL" sys_domain="global" view="6e0bd04d97d2011035f5b998c253af25">932b504d97d2011035f5b998c253afeb</list_id>
+            <element>restaurant_name</element>
+            <list_id display_value="x_682052_lunch_spo_meals" element="NULL" name="x_682052_lunch_spo_meals" parent="NULL" relationship="NULL" sys_domain="global" view="6e0bd04d97d2011035f5b998c253af25">5af10c2d97a2011035f5b998c253afa2</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-03-15 20:37:00</sys_created_on>
-            <sys_id>5b2b504d97d2011035f5b998c253afeb</sys_id>
+            <sys_created_on>2022-03-29 18:19:33</sys_created_on>
+            <sys_id>aef10c2d97a2011035f5b998c253afa4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-03-15 20:37:00</sys_updated_on>
+            <sys_updated_on>2022-03-29 18:19:33</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>restaurant_name</element>
-            <list_id display_value="x_682052_lunch_spo_meals" element="NULL" name="x_682052_lunch_spo_meals" parent="NULL" relationship="NULL" sys_domain="global" view="6e0bd04d97d2011035f5b998c253af25">932b504d97d2011035f5b998c253afeb</list_id>
+            <element>food_genre</element>
+            <list_id display_value="x_682052_lunch_spo_meals" element="NULL" name="x_682052_lunch_spo_meals" parent="NULL" relationship="NULL" sys_domain="global" view="6e0bd04d97d2011035f5b998c253af25">5af10c2d97a2011035f5b998c253afa2</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-03-15 20:37:00</sys_created_on>
-            <sys_id>db2b504d97d2011035f5b998c253afeb</sys_id>
+            <sys_created_on>2022-03-29 18:19:33</sys_created_on>
+            <sys_id>66f10c2d97a2011035f5b998c253afa5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-03-15 20:37:00</sys_updated_on>
+            <sys_updated_on>2022-03-29 18:19:33</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>food_genre</element>
-            <list_id display_value="x_682052_lunch_spo_meals" element="NULL" name="x_682052_lunch_spo_meals" parent="NULL" relationship="NULL" sys_domain="global" view="6e0bd04d97d2011035f5b998c253af25">932b504d97d2011035f5b998c253afeb</list_id>
+            <element>paid_by</element>
+            <list_id display_value="x_682052_lunch_spo_meals" element="NULL" name="x_682052_lunch_spo_meals" parent="NULL" relationship="NULL" sys_domain="global" view="6e0bd04d97d2011035f5b998c253af25">5af10c2d97a2011035f5b998c253afa2</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-03-15 20:37:00</sys_created_on>
-            <sys_id>5f2b504d97d2011035f5b998c253afeb</sys_id>
+            <sys_created_on>2022-03-29 18:19:33</sys_created_on>
+            <sys_id>e6f10c2d97a2011035f5b998c253afa5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-03-15 20:37:00</sys_updated_on>
+            <sys_updated_on>2022-03-29 18:19:33</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>restaurant_review</element>
-            <list_id display_value="x_682052_lunch_spo_meals" element="NULL" name="x_682052_lunch_spo_meals" parent="NULL" relationship="NULL" sys_domain="global" view="6e0bd04d97d2011035f5b998c253af25">932b504d97d2011035f5b998c253afeb</list_id>
+            <list_id display_value="x_682052_lunch_spo_meals" element="NULL" name="x_682052_lunch_spo_meals" parent="NULL" relationship="NULL" sys_domain="global" view="6e0bd04d97d2011035f5b998c253af25">5af10c2d97a2011035f5b998c253afa2</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-03-15 20:37:00</sys_created_on>
-            <sys_id>df2b504d97d2011035f5b998c253afeb</sys_id>
+            <sys_created_on>2022-03-29 18:19:33</sys_created_on>
+            <sys_id>6af10c2d97a2011035f5b998c253afa5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-03-15 20:37:00</sys_updated_on>
+            <sys_updated_on>2022-03-29 18:19:33</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -72,10 +72,10 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-03-15 20:37:00</sys_created_on>
+            <sys_created_on>2022-03-29 18:19:33</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>932b504d97d2011035f5b998c253afeb</sys_id>
+            <sys_id>5af10c2d97a2011035f5b998c253afa2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_682052_lunch_spo_meals</sys_name>
             <sys_package display_value="Lunch Spot" source="x_682052_lunch_spo">7eb6e3749752011035f5b998c253af6c</sys_package>
@@ -83,7 +83,7 @@
             <sys_scope display_value="Lunch Spot">7eb6e3749752011035f5b998c253af6c</sys_scope>
             <sys_update_name>sys_ui_list_x_682052_lunch_spo_meals_member</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-03-15 20:37:00</sys_updated_on>
+            <sys_updated_on>2022-03-29 18:19:33</sys_updated_on>
             <sys_user/>
             <view display_value="Member" name="member">6e0bd04d97d2011035f5b998c253af25</view>
             <view_name/>

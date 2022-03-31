@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_impex_map">
+    <sys_impex_map action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <agent/>
+        <apply_defaults>true</apply_defaults>
+        <coalesce/>
+        <condition_script/>
+        <data_option>insert_update</data_option>
+        <data_source/>
+        <description/>
+        <external_names/>
+        <name>icalendar.x_682052_lunch_spo_meals</name>
+        <order/>
+        <parent/>
+        <script/>
+        <sys_class_name>sys_impex_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-31 21:41:30</sys_created_on>
+        <sys_id>b4b2078e9722011035f5b998c253afcb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>icalendar.x_682052_lunch_spo_meals</sys_name>
+        <sys_package display_value="Lunch Spot" source="x_682052_lunch_spo">7eb6e3749752011035f5b998c253af6c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Lunch Spot">7eb6e3749752011035f5b998c253af6c</sys_scope>
+        <sys_update_name>sys_impex_map_b4b2078e9722011035f5b998c253afcb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-31 21:41:30</sys_updated_on>
+        <table>x_682052_lunch_spo_meals</table>
+        <type>icalendar</type>
+    </sys_impex_map>
+</record_update>

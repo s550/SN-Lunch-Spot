@@ -4,7 +4,7 @@
         <element label="Food Genre" max_length="40" name="food_genre" type="string"/>
         <element label="Meal Date" mandatory="true" max_length="40" name="meal_date" type="glide_date"/>
         <element label="Paid By" mandatory="true" max_length="32" name="paid_by" reference="sys_user" type="reference"/>
-        <element label="Restaurant Name" max_length="40" name="restaurant_name" type="string"/>
+        <element label="Restaurant Name" mandatory="true" max_length="40" name="restaurant_name" type="string"/>
         <element label="Restaurant Review" max_length="4000" name="restaurant_review" type="journal"/>
         <element label="Share Total" max_length="40" name="u_share_total" type="boolean"/>
         <index name="index">
